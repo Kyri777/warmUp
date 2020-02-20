@@ -4,6 +4,7 @@
 // 4-calculate your age in seconds.
 
 // your code is here
+<<<<<<< HEAD
 //1 
 Name ="Siwar"+" "+ "Hkimi"
 //2
@@ -22,3 +23,5 @@ Name ="Siwar"+" "+ "Hkimi"
 or 
 arr [31,28,31,30,31,30,31,30,31,31,30,31]
 my age 
+=======
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6

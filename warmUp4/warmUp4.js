@@ -1,7 +1,9 @@
 // 1-Define a function called myTrueFun that returns true whenever its called.
+
 // 2-complete the following color function in which returns true if type of the input is string and returns
 // 	false otherwise.
 
+<<<<<<< HEAD
 
 // 3-Write a JavaScript function that accepts a number as a parameter and check if the number is prime or not.
 // 4-write a function that accepts two numbers as parameters and returns true if the two parameters have the same value , false if not
@@ -36,3 +38,8 @@ function value(num1,num2){
 	     return false 
 }
 
+=======
+// 3-Write a JavaScript function that accepts a number as a parameter and check if the number is prime or not.
+
+// 4-write a function that accepts two numbers as parameters and returns true if the two parameters have the same value , false if not
+>>>>>>> b8a430e8ea2c4d0e1e78f81ef8a28a628ba965c6
